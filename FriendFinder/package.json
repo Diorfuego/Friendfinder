@@ -1,1 +1,20 @@
-test
+  {
+  "name": "FriendFinder",
+  "version": "1.0.0",
+  "description": "Bootcamp Homework 13",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diorfuego/Friendfinder"
+  },
+
+  "homepage": "https://github.com/Diorfuego/Friendfinder/blob/master/README.md",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "path": "^0.12.7"
+  }
+}
